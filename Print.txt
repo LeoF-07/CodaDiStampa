@@ -1,0 +1,32 @@
+*****INIZIO <file5.txt> *****
+Riga1
+Riga2
+Riga3
+Riga4
+Riga5
+***** FINE *****
+
+
+*****INIZIO <file3.txt> *****
+Riga1
+***** FINE *****
+
+
+*****INIZIO <file4.txt> *****
+Riga1
+Riga2
+***** FINE *****
+
+
+*****INIZIO <file2.txt> *****
+Riga1
+Riga2
+***** FINE *****
+
+
+*****INIZIO <file1.txt> *****
+Riga1
+Riga2
+***** FINE *****
+
+
